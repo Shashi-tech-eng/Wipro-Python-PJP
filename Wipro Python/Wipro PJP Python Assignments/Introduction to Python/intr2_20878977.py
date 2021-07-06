@@ -1,0 +1,6 @@
+firstname=input("Enter first name")
+employeenumber=input("Enter employee number")
+company=input("Enter company name")
+print(firstname)
+print(employeenumber)
+print(company)
