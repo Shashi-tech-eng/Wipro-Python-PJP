@@ -1,3 +1,0 @@
-We are learning file input output operation in Python
-Completed learning w.r.t command line arguments topic 
-CIS trainings going on well

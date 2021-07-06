@@ -1,6 +1,0 @@
-fd1=open('in1_20878977.txt','r')
-print(fd1.name)
-print(fd1.closed)
-print(fd1.mode)
-fd1.close()
-print(fd1.closed)
